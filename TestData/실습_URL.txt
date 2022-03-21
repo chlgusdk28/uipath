@@ -1,0 +1,17 @@
+cnb
+https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/
+
+bcv
+http://www.bcv.org.ve/
+
+cbar
+https://www.cbar.az/currency/rates?language=en
+
+ACME
+https://acme-test.uipath.com/login
+
+SHA1
+http://www.sha1-online.com
+
+네이버 영화
+https://movie.naver.com/movie/sdb/rank/rmovie.naver

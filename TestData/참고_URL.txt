@@ -1,0 +1,10 @@
+.Net
+https://docs.microsoft.com/ko-kr/dotnet/api/system?view=net-6.0
+
+Stack Overflow
+https://stackoverflow.com/
+
+Forum
+
+https://forum.uipath.com/c/ask-in-your-language/korearpa
+https://forum.uipath.com
