@@ -1,0 +1,38 @@
+{
+	"NecessaryInfoMationStart":"----------------------------------------------------------------------------------",
+
+	"ProcessName" : "UP220328_GetStockDataInNaver",
+	"FolderPath" : "C:\\RPA\\[ProcessName]\\[Date]\\",
+	"inputPath" : "input",
+	"outputPath" : "output",
+	"DataResultPath" : "DataResult",
+	"ProcessStartTime":"",
+	"MaxRetryNumber_Init":"3",
+	"MaxRetryNumber_item":"3",
+	"KillProcess":"Chrome,Excel",
+	"ExScreenshotsFolderPath":"Screenshot",
+	"DeleteFolder":"3",
+	"Period_Screenshot":"30",
+	"Period_Log":"30",
+	"NecessaryInfoMationEnd":"----------------------------------------------------------------------------------",
+
+
+	"LogStart":"----------------------------------------------------------------------------------------------",
+
+	"LogMessage_GetTransactionDataError":"TransactionData를 수집과정에서 에러가 발생하였습니다:",
+	"LogMessage_ApplicationException":"Application에러가 발생하였습니다.",
+	"LogMessage_Success":"Transaction을 성공하였습니다.",
+	"LogMessage_BusinessRuleException":"비지니스 에러 발생 (사용자가 직접 작성해주세요)",
+	"LogMessage_GetTransactionData":"TransactionData를 모두 수집완료 하였습니다.",
+
+	"LogEnd":"----------------------------------------------------------------------------------------------",
+
+
+	"etc":"----------------------------------------------------------------------------------------------------",
+	"PerStandard":"15",
+	"url":"https://finance.naver.com/sise/sise_market_sum.naver?sosok=0&"
+	"etc":"----------------------------------------------------------------------------------------------------"
+	
+
+	
+}

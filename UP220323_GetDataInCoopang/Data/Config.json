@@ -1,0 +1,27 @@
+{
+	"ProcessName" : "UP220323_GetDataInCoopang",
+	"FolderPath" : "C:\\RPA\\[ProcessName]\\[Date]\\",
+	"inputPath" : "input",
+	"outputPath" : "output",
+	"DataResultPath" : "DataResult",
+	"AssetCoopangUrl" : "UP_220323WorkUrl",
+	"ProcessStartTime":"",
+	"MaxRetryNumber_Init":"3",
+	"MaxRetryNumber_item":"3",
+	"KillProcess":"Chrome,Excel",
+	"ExScreenshotsFolderPath":"Screenshot",
+	"DeleteFolder":"3",
+	"Period_Screenshot":"30",
+	"Period_Log":"30",
+	"LogMessage_GetTransactionDataError":"Processing Transaction Number:",
+	"LogMessage_ApplicationException":"message1",
+	"LogMessage_GetTransactionDataError":"Error getting transaction data for Transaction Number: ",
+	"LogMessage_Success":"Transaction Successful",
+	"LogMessage_BusinessRuleException":"Business rule exception.",
+	"LogMessage_ApplicationException":"System exception.",
+	"LogMessage_GetTransactionData":"작업대상 테이블을 모두 수집했습니당",
+	"SearchWord":"김치냉장고",
+	"LoopCount":"10"
+
+	
+}
